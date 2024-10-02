@@ -14,11 +14,7 @@ const nevItems = [
         path: "#ABOUTUS",
         aosdelay : "200",
     },
-    // {
-    //     name: "TOUR PACKAGES",
-    //     path: "#TOURPACKAGES",
-    //     aosdelay : "400",
-    // },
+
     {
         name: "GALLERY",
         path: "#GALLERY",
