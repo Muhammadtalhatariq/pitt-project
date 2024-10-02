@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  video::-webkit-media-controls {
+    @apply hidden;
+  }
+
+  video::-moz-media-controls {
+    @apply hidden;
+  }
+}
+
+
