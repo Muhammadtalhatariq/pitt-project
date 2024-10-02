@@ -14,25 +14,25 @@ const nevItems = [
         path: "#ABOUTUS",
         aosdelay : "200",
     },
-    {
-        name: "TOUR PACKAGES",
-        path: "#TOURPACKAGES",
-        aosdelay : "400",
-    },
+    // {
+    //     name: "TOUR PACKAGES",
+    //     path: "#TOURPACKAGES",
+    //     aosdelay : "400",
+    // },
     {
         name: "GALLERY",
         path: "#GALLERY",
-        aosdelay : "600",
+        aosdelay : "400",
     },
     {
         name: "OUR SERVICES",
         path: "#OURSERVICES",
-        aosdelay : "800",
+        aosdelay : "600",
     },
     {
         name: "CONTACT",
         path: "#CONTACT",
-        aosdelay : "1000",
+        aosdelay : "800",
     },
 ];
 
